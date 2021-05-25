@@ -24,5 +24,21 @@ MQTTとは ”Message Queue Telemetry Transport” の略で、パブリッシ�
 その設計原理は、ネットワーク帯域幅とデバイスリソースを最小限に抑えつつ、メッセージ配信の一定の信頼性を確保する、というものです。
 これらの原理は、M2M (Machine-to-Machine) や IoT (Internet of Things) といったデバイス同士が接続される世界においても、また帯域幅とバッテリー消費が鍵となるモバイルアプリケーションにとっても理想的なプロトコルであると言えます。
 
+## MQTT vs HTTP 性能比較
+- スループットが93倍UP
+- 送信時のバッテリー使用量が91.5%減
+- 受信時のバッテリー使用量が99.4%減
+- 接続保持電力が50%減
+- ネットワークオーバーヘッドが87.5%減
 
+## MQTTブローカ
 https://www.shiftr.io/
+
+![スクリーンショット 2021-05-26 6 08](https://user-images.githubusercontent.com/22611735/119569391-a64c9b00-bde9-11eb-9c4c-ebc861a55337.png)
+
+<img width="441" alt="スクリーンショット 2021-05-26 6 13 34" src="https://user-images.githubusercontent.com/22611735/119569404-a9e02200-bde9-11eb-9bb8-0fda56c3431d.png">
+
+<img width="422" alt="スクリーンショット 2021-05-26 6 13 43" src="https://user-images.githubusercontent.com/22611735/119569419-ac427c00-bde9-11eb-95de-e3953f624dbe.png">
+
+<img width="1125" alt="スクリーンショット 2021-05-26 6 14 28" src="https://user-images.githubusercontent.com/22611735/119569439-b3698a00-bde9-11eb-9d07-3fdc42673cfd.png">
+

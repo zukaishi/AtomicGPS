@@ -43,6 +43,11 @@ https://www.shiftr.io/
 <img width="1125" alt="スクリーンショット 2021-05-26 6 14 28" src="https://user-images.githubusercontent.com/22611735/119569439-b3698a00-bde9-11eb-9d07-3fdc42673cfd.png">
 
 
+## EasyLoader
+https://docs.m5stack.com/en/atom/atomicgps
+![スクリーンショット 2021-05-27 6 33 16](https://user-images.githubusercontent.com/22611735/119734374-df524180-beb5-11eb-9da6-d720507026ae.png)
+
+
 ## Arduino IDEのインストール
 https://www.arduino.cc/en/software
 

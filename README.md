@@ -53,3 +53,5 @@ https://www.arduino.cc/en/software
 
 <img width="501" alt="スクリーンショット 2021-05-27 6 17 31" src="https://user-images.githubusercontent.com/22611735/119732528-415d7780-beb3-11eb-969e-73e7417e891d.png">
 
+## ソースコードの入手
+git clone https://github.com/iij/adventcalendar2020-atomicgps

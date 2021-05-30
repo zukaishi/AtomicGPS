@@ -55,3 +55,6 @@ https://www.arduino.cc/en/software
 
 ## ソースコードの入手
 $ git clone https://github.com/iij/adventcalendar2020-atomicgps
+
+## TinyGPS++入手
+https://github.com/mikalhart/TinyGPSPlus/releases

@@ -57,4 +57,7 @@ https://www.arduino.cc/en/software
 $ git clone https://github.com/iij/adventcalendar2020-atomicgps
 
 ## TinyGPS++入手
-https://github.com/mikalhart/TinyGPSPlus/releases
+https://github.com/mikalhart/TinyGPSPlus/release
+
+＃＃　
+https://www.mongodb.com/cloud/atlas
